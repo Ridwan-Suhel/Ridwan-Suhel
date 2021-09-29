@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Ridwan-Suhel
-- 👀 I’m interested in web Development & Blockchain Development
+- 👀 I’m interested in web Development
 - 🌱 I’m currently learning web Development
 - 💞️ I’m looking to collaborate on your web project
 - 📫 How to reach me?
