@@ -7,7 +7,7 @@
 
 -fb: https://www.facebook.com/RidwanSuhel/
 -tw: https://twitter.com/RidwanSuhel
--in: www.linkedin.com/in/ridwansuhel
+-in: https://www.linkedin.com/in/ridwan-suhel/
 
 -gmail: ridwansuhel96@gmail.com
 
