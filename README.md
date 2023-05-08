@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Ridwan-Suhel
 - 👀 I’m interested in web Development
-- 🌱 I’m currently learning web Development
+- 🌱 I’m currently working with react and angular
 - 💞️ I’m looking to collaborate on your web project
 - 📫 How to reach me?
 - Here is my social link and Email:
